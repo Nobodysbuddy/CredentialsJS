@@ -9,7 +9,7 @@ mkdir src
 cd src
 ```
 This Should Be Perfect, You Have Installed CredentialsJS. 
-> Note: Put Your Code In The Src Folder So CredentialsJS's init script can find your code.
+> Note: Put Your Code In The `src` Folder So CredentialsJS's init script can find your code.
 ## Basic Features Of CredentialsJS
 In CredentialsJS 1.0.0, There Are 3 Main Functions Aviliable. Given Here Are The Functions With Parameters:
 - validiatePassword()
