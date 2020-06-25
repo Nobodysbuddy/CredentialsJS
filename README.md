@@ -30,4 +30,5 @@ In CredentialsJS 1.0.0, There Are 3 Main Functions Aviliable. Given Here Are The
   - Error Function: To Be Called If An Error Happens
 ## The End!
 Hope You Learned Someting And Will Look Forward To Be Using CredentialsJS. :)
+
 Please Leave Your Feedback On CreatorJS!
