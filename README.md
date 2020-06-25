@@ -25,8 +25,8 @@ In CredentialsJS 1.0.0, There Are 3 Main Functions Aviliable. Given Here Are The
   - Password Input: The User's Input For The Password
   - Username: The Main Username
   - Username Input: The User's Input For The Username
-  - Success Function: Function To Be Called If Password Is Correct
-  - Fail Function: Function To Be Called If Password Is Incorrect
+  - Success Function: Function To Be Called If Credentials Are Correct
+  - Fail Function: Function To Be Called If Credentials Are Incorrect
   - Error Function: To Be Called If An Error Happens
 ## The End!
 Hope You Learned Someting And Will Look Forward To Be Using CredentialsJS. :)
